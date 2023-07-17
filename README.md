@@ -13,7 +13,7 @@
 
 
 ## Overview
-This is a repository of us 4 friends' project on Geeks For Geeks' Data Analysis Competetion(Hackathon)
+This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
 programmers, individuals with a passion for sports, data analysis, and web development.
 
