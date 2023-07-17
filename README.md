@@ -32,7 +32,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
     </li>
     <br>
     <li>
-        <strong>Front-end Developer:</strong> Debutta - WIP
+        <strong>Front-end Developer:</strong> Debdutta - WIP
     </li>
     <br>
     <li>
