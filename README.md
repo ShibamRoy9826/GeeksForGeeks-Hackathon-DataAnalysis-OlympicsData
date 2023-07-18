@@ -15,7 +15,7 @@
 ## Overview
 This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
-programmers, individuals with a passion for sports, data analysis, and web development.
+programmers, individuals with a passion for sports, data analysis, and web development.This project is related to the data of past 120 years of Olympics, we are going to analyze this data and find some useful insights using this data.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Meet The Team
