@@ -17,6 +17,7 @@ This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Co
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
 programmers, individuals with a passion for sports, data analysis, and web development.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## Meet The Team
 <ul>
     <li>
@@ -28,11 +29,11 @@ programmers, individuals with a passion for sports, data analysis, and web devel
     </li>
     <br>
     <li>
-        <strong>Data Analyst 2:</strong> Swadhin - WIP
+        <strong>Data Analyst 2:</strong> Swadhin -  A skilled Data Analyst and Full Stack Developer proficient in Python, MySQL, and JavaScript. His expertise in creating multifunctional games and web apps from scratch using Pygame, Django, and Flask sets him apart. Notably, he has developed a full-fledged game with global and real-time data handling capabilities, showcasing his creativity and technical prowess. Swadhin's versatile skills make him a valuable asset, seamlessly integrating data insights into practical applications.
     </li>
     <br>
     <li>
-        <strong>Front-end Developer:</strong> Debdutta - WIP
+        <strong>Front-end Developer:</strong> Debdutta - A talented Front-end Developer with a passion for Competitive Programming (CP). She excels in C++, CSS, JavaScript, Tailwind CSS, HTML, Node.js, and React.js. Her creative problem-solving skills and attention to detail allow her to craft visually stunning and user-friendly web interfaces. With a deep appreciation for clean coding practices, Debdutta consistently delivers innovative and responsive web applications.
     </li>
     <br>
     <li>
