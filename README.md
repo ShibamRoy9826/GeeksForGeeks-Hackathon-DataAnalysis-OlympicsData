@@ -39,11 +39,11 @@ programmers, individuals with a passion for sports, data analysis, and web devel
     </li>
     <br>
     <li>
-        <strong>Data Analyst 2:</strong> Swadhin -  A skilled Data Analyst and Full Stack Developer proficient in Python, MySQL, and JavaScript. His expertise in creating multifunctional games and web apps from scratch using Pygame, Django, and Flask sets him apart. Notably, he has developed a full-fledged game with global and real-time data handling capabilities, showcasing his creativity and technical prowess. Swadhin's versatile skills make him a valuable asset, seamlessly integrating data insights into practical applications.
+        <strong>Data Analyst 2:</strong> Swadhin Maharana-  A skilled Data Analyst and Full Stack Developer proficient in Python, MySQL, and JavaScript. His expertise in creating multifunctional games and web apps from scratch using Pygame, Django, and Flask sets him apart. Notably, he has developed a full-fledged game with global and real-time data handling capabilities, showcasing his creativity and technical prowess. Swadhin's versatile skills make him a valuable asset, seamlessly integrating data insights into practical applications.
     </li>
     <br>
     <li>
-        <strong>Front-end Developer:</strong> Debdutta - A talented Front-end Developer with a passion for Competitive Programming (CP). She excels in C++, CSS, JavaScript, Tailwind CSS, HTML, Node.js, and React.js. Her creative problem-solving skills and attention to detail allow her to craft visually stunning and user-friendly web interfaces. With a deep appreciation for clean coding practices, Debdutta consistently delivers innovative and responsive web applications.
+        <strong>Front-end Developer:</strong> Debdutta Burman- A talented Front-end Developer with a passion for Competitive Programming (CP). She excels in C++, CSS, JavaScript, Tailwind CSS, HTML, Node.js, and React.js. Her creative problem-solving skills and attention to detail allow her to craft visually stunning and user-friendly web interfaces. With a deep appreciation for clean coding practices, Debdutta consistently delivers innovative and responsive web applications.
     </li>
     <br>
     <li>
@@ -62,7 +62,7 @@ This data analysis project delves into the historical records of Olympic Games f
 
 ## Team Members
 - Shibam Roy: Data Analyst
-- Swadhin: Data Analyst
+- Swadhin Maharana: Data Analyst
 - Debdutta Burman: Frontend Dev
 - Ankush Roy: Presentation Expert
 
