@@ -53,7 +53,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
         skills make him a valuable asset to the team.
     </li>
 </ul>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Olympics Medals Analysis
 
