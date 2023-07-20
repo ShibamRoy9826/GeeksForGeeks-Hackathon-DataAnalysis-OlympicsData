@@ -76,13 +76,13 @@ This data analysis project delves into the historical records of Olympic Games f
 - Top Performing Countries: Identified countries consistently winning the most medals.(Out of which USA had the most medals of all types)
 - Medal Type Distribution: Analyzed the distribution of Gold, Silver, and Bronze medals among top-performing countries.
 - Correlation of Country population and Country location with Amount of medals
-- 
+  
 ## Conclusion
 This analysis provided valuable insights into the historical performance of countries in the Olympic Games. It sheds light on dominant countries and medal type distributions, contributing to a deeper understanding of Olympic success factors.
 
 ## Data Source
 The dataset used for this analysis is mainly sourced from GeeksForGeeks. It covers Olympic medal data from 1896 to 2022.
-For further data analysis, we used a dataset from kaggle, this is the link to it: <a href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">Click here to check out</a>
+For further data analysis, we used a dataset from kaggle, click<a href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset"> here </a>to check it out.
 
 ## Acknowledgments
 We would like to express our gratitude to GeeksforGeeks (GFG) for organizing the competition and providing the opportunity to work on this exciting project.
