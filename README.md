@@ -15,8 +15,9 @@
             <li><a href="#team-members">Team Members</a></li>
             <li><a href="#methodology">Methodology</a></li>
             <li><a href="#key-findings">Key Findings</a></li>
-            <li><a href="#project-overview">Project Overview</a></li>
-            <li><a href="#project-overview">Project Overview</a></li>
+            <li><a href="#conclusion">Conclusion</a></li>
+            <li><a href="#data-source">Data Source</a></li>
+            <li><a href="#acknowledgments">Acknowledgement</a></li>
         </ul>
     </ol>
 </details <--HMMMMM-->
