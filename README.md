@@ -22,7 +22,6 @@
     </ol>
 </details <--HMMMMM-->
 
-
 ## Overview
 This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
@@ -54,6 +53,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
         skills make him a valuable asset to the team.
     </li>
 </ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # Olympics Medals Analysis
 
@@ -84,3 +84,4 @@ The dataset used for this analysis is sourced from xyz. It covers Olympic medal 
 
 ## Acknowledgments
 We would like to express our gratitude to GeeksforGeeks (GFG) for organizing the competition and providing the opportunity to work on this exciting project.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
