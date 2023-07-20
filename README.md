@@ -11,7 +11,6 @@
 </details <--HMMMMM-->
 
 
-
 ## Overview
 This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
@@ -43,3 +42,33 @@ programmers, individuals with a passion for sports, data analysis, and web devel
         skills make him a valuable asset to the team.
     </li>
 </ul>
+
+# Olympics Medals Analysis (1896-2022)
+
+## Project Overview
+This data analysis project delves into the historical records of Olympic Games from 1896 to 2022. The primary objective is to explore and analyze the distribution of medals won by various countries over the years. The project was conducted as part of a competition organized by GeeksforGeeks (GFG).
+
+## Team Members
+- Shibam Roy: Data Analyst
+- Swadhin: Data Analyst
+- Debdutta Burman: Frontend Dev
+- Ankush Roy: Presentation Expert
+
+## Methodology
+- Data Cleaning: The dataset was thoroughly cleaned to remove inconsistencies and errors.
+- Data Exploration: Initial exploratory data analysis was performed to uncover general trends.
+- Data Visualization: Various visualization techniques were used to present findings effectively.
+- Statistical Analysis: Statistical methods were employed to identify correlations and patterns.
+
+## Key Findings
+- Top Performing Countries: Identified countries consistently winning the most medals.
+- Medal Type Distribution: Analyzed the distribution of Gold, Silver, and Bronze medals among top-performing countries.
+
+## Conclusion
+This analysis provided valuable insights into the historical performance of countries in the Olympic Games. It sheds light on dominant countries and medal type distributions, contributing to a deeper understanding of Olympic success factors.
+
+## Data Source
+The dataset used for this analysis is sourced from xyz. It covers Olympic medal data from 1896 to 2022.
+
+## Acknowledgments
+We would like to express our gratitude to GeeksforGeeks (GFG) for organizing the competition and providing the opportunity to work on this exciting project.
