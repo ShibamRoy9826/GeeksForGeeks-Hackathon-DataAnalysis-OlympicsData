@@ -7,6 +7,17 @@
         <li>
             <a href="#meet-the-team">Meet The Team</a>
         </li>
+        <li>
+            <a href="#olympics-medals-analysis">Olympics Medals Analysis</a>
+        </li>
+        <ul>
+            <li><a href="#project-overview">Project Overview</a></li>
+            <li><a href="#team-members">Team Members</a></li>
+            <li><a href="#methodology">Methodology</a></li>
+            <li><a href="#key-findings">Key Findings</a></li>
+            <li><a href="#project-overview">Project Overview</a></li>
+            <li><a href="#project-overview">Project Overview</a></li>
+        </ul>
     </ol>
 </details <--HMMMMM-->
 
@@ -43,7 +54,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
     </li>
 </ul>
 
-# Olympics Medals Analysis (1896-2022)
+# Olympics Medals Analysis
 
 ## Project Overview
 This data analysis project delves into the historical records of Olympic Games from 1896 to 2022. The primary objective is to explore and analyze the distribution of medals won by various countries over the years. The project was conducted as part of a competition organized by GeeksforGeeks (GFG).
