@@ -74,10 +74,10 @@ This data analysis project delves into the historical records of Olympic Games f
 - Ankush Roy: Presentation Expert
 
 ## Methodology
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 - Data Cleaning: The dataset was thoroughly cleaned to remove inconsistencies and errors.
 - Data Exploration: Initial exploratory data analysis was performed to uncover general trends.
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - Data Visualization: Various visualization techniques were used to present findings effectively.
 - Statistical Analysis: Statistical methods were employed to identify correlations and patterns.
 
