@@ -82,7 +82,6 @@ This data analysis project delves into the historical records of Olympic Games f
 - Statistical Analysis: Statistical methods were employed to identify correlations and patterns.
 
 ## Key Findings
-<img align="right" width=150px height=150px alt="side_sticker" src="https://78.media.tumblr.com/26a3028cab2de3da1db8ecbbf2a38c15/tumblr_mtgw9cL5TS1qkjjfoo1_500.gif" />
 - Top Performing Countries: Identified countries consistently winning the most medals.(Out of which USA had the most medals of all types)
 - Medal Type Distribution: Analyzed the distribution of Gold, Silver, and Bronze medals among top-performing countries.
 - Correlation of Country population and Country location with Amount of medals
