@@ -2,13 +2,13 @@
     <summary>Table of Contents</summary>
     <ol>
         <li>
-            <a href="#overview">Overview</a>
+            <a href="#alu">Overview</a>
         </li>
         <li>
-            <a href="#meet-the-team">Meet The Team</a>
+            <a href="#meet_the_team">Meet The Team</a>
         </li>
         <li>
-            <a href="#olympics-medals-analysis">Olympics Medals Analysis</a>
+            <a href="#olympic_medals_analysis">Olympics Medals Analysis</a>
         </li>
         <ul>
             <li><a href="#project-overview">Project Overview</a></li>
@@ -22,13 +22,18 @@
     </ol>
 </details <--HMMMMM-->
 
-## Overview
+<h2 id="alu">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" class="overviews"><b> Overview</b>
+</h2>
 This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
 programmers, individuals with a passion for sports, data analysis, and web development.This project is related to the data of past 120 years of Olympics, we are going to analyze this data and find some useful insights using this data.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## Meet The Team
+<h2 id="meet_the_team">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>Meet The Team</b>
+ </h2>
+
 <ul>
     <li>
         <strong>Data Analyst 1:</strong> Shibam Roy - A passionate and skilled Data Analyst with a profound love for
@@ -55,7 +60,9 @@ programmers, individuals with a passion for sports, data analysis, and web devel
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-# Olympics Medals Analysis
+<h1 id="olympic_medals_analysis">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Olympic Medals Analysis </b>
+</h1>
 
 ## Project Overview
 This data analysis project delves into the historical records of Olympic Games from 1896 to 2022. The primary objective is to explore and analyze the distribution of medals won by various countries over the years. The project was conducted as part of a competition organized by GeeksforGeeks (GFG).
