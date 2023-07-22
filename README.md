@@ -2,7 +2,7 @@
     <summary>Table of Contents</summary>
     <ol>
         <li>
-            <a href="#overview">Overview</a>
+            <a href="#overviews">Overview</a>
         </li>
         <li>
             <a href="#meet-the-team">Meet The Team</a>
@@ -22,15 +22,11 @@
     </ol>
 </details <--HMMMMM-->
 
-<a href="#skills">Skills</a>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-    width="25" class="skills"><b> Skills</b>
+<a href="#overviews">Overview</a>
+<h1>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" class="overviews"><b> Overview</b>
+</h1>
 <br>
-
-
-<br><br>
-## Overview
 This is a repository of us 4 friends' project on GeeksForGeeks' Data Analysis Competetion(Hackathon)
 This Data Analysis Project is an exciting endeavor that brings together a team of newbie enthusiast
 programmers, individuals with a passion for sports, data analysis, and web development.This project is related to the data of past 120 years of Olympics, we are going to analyze this data and find some useful insights using this data.
