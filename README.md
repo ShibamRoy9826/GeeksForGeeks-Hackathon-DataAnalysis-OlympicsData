@@ -75,6 +75,8 @@ This data analysis project delves into the historical records of Olympic Games f
 
 ## Methodology
 - Data Cleaning: The dataset was thoroughly cleaned to remove inconsistencies and errors.
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - Data Exploration: Initial exploratory data analysis was performed to uncover general trends.
 - Data Visualization: Various visualization techniques were used to present findings effectively.
 - Statistical Analysis: Statistical methods were employed to identify correlations and patterns.
