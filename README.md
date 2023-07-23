@@ -88,7 +88,8 @@ This data analysis project delves into the historical records of Olympic Games f
   
 ## Conclusion
 This analysis provided valuable insights into the historical performance of countries in the Olympic Games. It sheds light on dominant countries and medal type distributions, contributing to a deeper understanding of Olympic success factors.
-
+You can check out this website for further detailed info: to check <a href="https://shibamroy2626.github.io/"> click here</a> 
+There's also a video presentation on youtube for this project: <a href="https://youtu.be/tA5kwFefykI">here</a>
 ## Data Source
 The dataset used for this analysis is mainly sourced from GeeksForGeeks. It covers Olympic medal data from 1896 to 2022.
 For further data analysis, we used a dataset from kaggle, click<a href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset"> here </a>to check it out.
