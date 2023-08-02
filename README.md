@@ -36,7 +36,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
 
 <ul>
     <li>
-        <strong>Data Analyst 1:</strong> Shibam Roy - A passionate and skilled Data Analyst with a profound love for
+        <strong>Data Analyst :</strong> Shibam Roy - A passionate and skilled Data Analyst with a profound love for
         coding. His extensive knowledge of various programming languages and frameworks enables him to undertake complex
         data analysis projects. From childhood, Shibam has been dedicated to coding, resulting in an impressive
         portfolio of remarkable projects. His analytical mindset, creativity, and effective communication make him a
@@ -44,7 +44,7 @@ programmers, individuals with a passion for sports, data analysis, and web devel
     </li>
     <br>
     <li>
-        <strong>Data Analyst 2:</strong> Swadhin Maharana-  A skilled Data Analyst and Full Stack Developer proficient in Python, MySQL, and JavaScript. His expertise in creating multifunctional games and web apps from scratch using Pygame, Django, and Flask sets him apart. Notably, he has developed a full-fledged game with global and real-time data handling capabilities, showcasing his creativity and technical prowess. Swadhin's versatile skills make him a valuable asset, seamlessly integrating data insights into practical applications.
+        <strong>Data Extractor:</strong> Swadhin Maharana is a proficient Data Extractor and Full Stack Developer with a focus on Python, MySQL, and JavaScript. His exceptional abilities lie in extracting and managing data for various projects, a skill set that greatly contributed to the success of our endeavor. Using his expertise in Pygame, Django, and Flask, Swadhin has not only created multifunctional games and web apps but also played a crucial role in fetching and integrating real-time data.
     </li>
     <br>
     <li>
